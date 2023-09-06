@@ -350,7 +350,7 @@ footer div a {
     }
 
     .heroTxt p {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
 
     .infoMulti {
@@ -411,8 +411,6 @@ footer div a {
         max-width: 300px;
         min-height: 19px;
     }
-
-
 
     .contactFormSubmit {
         font-size: 1rem;
